@@ -21,3 +21,12 @@ public class TestP92 {
         System.out.println(s2);
     }
 }
+
+
+
+/*输出结果
+1
+2
+Hello World
+Hello
+ */
